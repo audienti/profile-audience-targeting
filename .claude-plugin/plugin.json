@@ -1,0 +1,8 @@
+{
+  "name": "profile-audience-targeting",
+  "version": "1.0.0",
+  "description": "Find ICP and Role matches among commenters and reactors on selected professional profiles\u2019 posts.",
+  "author": {
+    "name": "Audienti"
+  }
+}
