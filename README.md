@@ -42,4 +42,4 @@ The skill returns evidence-backed research and tracking deltas. Your host owns d
 
 ## Verification
 
-Version 1.0.0 preserves the independently reviewed skill and four reference files. Both routes were executed through an agent using live TREG activity and refreshed profile/company evidence. Three previously researched matches were revalidated across the two skills; this proves the functional paths, not a new-prospect yield or conversion-rate improvement. Reprocessing the evidence added no duplicate people. Coverage was bounded. Customer-specific test data and provider responses are not distributed.
+Version 1.0.0 preserves the independently reviewed skill and four reference files. Both routes were executed through an agent using live TREG activity and refreshed profile/company evidence. Two previously researched audience matches were revalidated; this proves the functional paths, not a new-prospect yield or conversion-rate improvement. Reprocessing the same evidence added no duplicate people; this was not a second live poll. Coverage was bounded. Customer-specific test data and provider responses are not distributed.
